@@ -12,7 +12,7 @@
 	"movementType": "Land"
     },
     {
-	"name": Boat,
+	"name": "Boat",
 	"movementType": "Water"
     }
 ]
