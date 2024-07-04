@@ -8,7 +8,7 @@
         "movementType": "Land"
     },
     {
-	"name" "Vehicle",
+	"name": "Vehicle",
 	"movementType": "Land"
     },
     {
