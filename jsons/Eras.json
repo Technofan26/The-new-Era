@@ -16,7 +16,7 @@
     {
         "name": "The Finding",
         "researchAgreementCost": 250,
-        "startingSettlerCount" 1,
+        "startingSettlerCount": 1,
         "startingWorkerCount": 1,
         "startingMilitaryUnitCount": 2,
         "startingMilitaryUnit": "Rifleman",
