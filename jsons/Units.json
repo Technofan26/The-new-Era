@@ -14,5 +14,15 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"attackSound": "shot"
+     },
+     {
+	        "name": "Tank",
+	        "uniteType": "Vehicle",
+	        "movement": 5,
+	        "strength": 5,
+        "range": 5,
+	        "rangedStrength": 9
+	        "cost": 60,
+	        "attackSound": "shot"
 	}
 ]
