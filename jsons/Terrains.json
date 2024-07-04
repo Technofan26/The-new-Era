@@ -14,5 +14,13 @@
 		"movementCost": 1,
 	"RGB": [100, 42, 42],
 	"uniques": []
+	},
+	{
+	        "name": "Water",
+		"type": "Water",
+		"food": 1,
+		"movementCost": 1,
+        "RGB": [50, 250, 255]
+	"uniques": []
     }
 ]
