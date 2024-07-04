@@ -6,6 +6,15 @@
     {
         "name": "Infantry",
         "movementType": "Land"
+    },
+    {
+        "name": "Tank"
+        "movemntType": "Land",
+        "unitType": "Ranged"
+        "movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500 
     }
-    
 ]
