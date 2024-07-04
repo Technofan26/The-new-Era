@@ -6,5 +6,13 @@
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
+	},
+	{
+		"name": "Rusted Iron",
+		"type": "Land",
+		"food": 0,
+		"movementCost": 1,
+	"RGB": [100, 42, 42],
+	"uniques": []
     }
 ]
